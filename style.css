@@ -1,18 +1,16 @@
 @import "compass/css3";
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap");
 
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background: ;
 }
 
 html {
     scroll-behavior: smooth;
-    background-color: #24292d ;
+    background-color: #24292d;
 }
-
 
 /* ADDING CUSTOM SCROLL BAR */
 ::-webkit-scrollbar {
@@ -29,7 +27,6 @@ html {
 }
 
 /* END OF CUSTOM SCROLLBAR */
-
 
 header {
     position: fixed;
@@ -62,9 +59,13 @@ header .banner {
     justify-items: center;
 }
 
-.banner{background: rgba(0, 0, 0,0.7) url('bg2.jpg');
-background-blend-mode: darken;
-background-size: cover;}
+.banner {
+    background: rgba(0, 0, 0, 0.3) url("bg.jpeg");
+    background-blend-mode: darken;
+    background-size: cover;
+    background-position: center;
+    outline: none;
+}
 header .logo {
     position: absolute;
     top: 50%;
@@ -75,7 +76,7 @@ header .logo {
     font-weight: 700;
     text-decoration: none;
     z-index: 1;
-    text-shadow: 5px 5px 5px rgba(0,0,0,0.5);
+    text-shadow: 5px 5px 7px rgba(0, 0, 0, 0.9);
 }
 
 header.sticky .logo {
@@ -93,7 +94,7 @@ header .swipe {
     font-weight: 500;
     text-decoration: none;
     z-index: 1;
-    text-shadow: 5px 5px 5px rgba(0,0,0,0.5);
+    text-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
     opacity: 0.7;
 }
 
@@ -103,8 +104,9 @@ header.sticky .swipe {
 }
 body {
     width: 100%;
-    font-family: 'Poppins', sans-serif;
+    font-family: "Poppins", sans-serif;
 }
+
 
 .timeline-section {
     margin-top: 100vh;
@@ -123,7 +125,7 @@ body {
 }
 
 .timeline-items::before {
-    content: '';
+    content: "";
     position: absolute;
     width: 2px;
     height: 100%;
@@ -188,11 +190,20 @@ body {
     font-weight: 200;
 }
 
-body[data-aos-duration='10000'] [data-aos],
-[data-aos][data-aos][data-aos-duration='10000'] {
+body[data-aos-duration="10000"] [data-aos],
+[data-aos][data-aos][data-aos-duration="10000"] {
     transition-duration: 10000ms;
 }
-
+.reveal{
+  position: relative;
+  transform: translateY(150px);
+  opacity: 0;
+  transition: 1s all ease;
+}
+.reveal.active{
+  transform: translateY(0);
+  opacity: 1;
+}
 
 /* Box1 for Semester 1 */
 .box1 {
@@ -242,14 +253,14 @@ body[data-aos-duration='10000'] [data-aos],
     cursor: pointer;
 }
 
-.downloads ul{
+.downloads ul {
     display: grid;
     width: 100%;
     justify-content: center;
     align-content: center;
     align-items: center;
 }
-.downloads li{
+.downloads li {
     list-style: none;
     display: flex;
     width: 100%;
@@ -261,7 +272,7 @@ body[data-aos-duration='10000'] [data-aos],
     width: 50%;
     position: absolute;
     right: 0;
-    margin-left:100%;
+    margin-left: 100%;
 }
 
 /* Box2 for Semester 2 */
@@ -306,14 +317,11 @@ body[data-aos-duration='10000'] [data-aos],
     cursor: pointer;
 }
 
-
 .funlist {
     align-items: left;
     text-align: left;
     padding-left: 100px;
 }
-
-
 
 /* Box3 for Semester 3 */
 .box3 {
@@ -356,7 +364,6 @@ body[data-aos-duration='10000'] [data-aos],
     cursor: pointer;
 }
 
-
 /* Box 4 for Cse Semester 4 */
 .box4 {
     max-width: 100vh;
@@ -387,7 +394,6 @@ body[data-aos-duration='10000'] [data-aos],
     height: 95%;
     width: 95%;
     padding: 10px;
-
 }
 
 .open-box4 {
@@ -408,7 +414,6 @@ body[data-aos-duration='10000'] [data-aos],
     border-radius: 50px;
     cursor: pointer;
 }
-
 
 /* REPO */
 .box5 {
@@ -450,8 +455,6 @@ body[data-aos-duration='10000'] [data-aos],
     border-radius: 50px;
     cursor: pointer;
 }
-
-
 
 .box6 {
     max-width: 80vh;
@@ -505,7 +508,6 @@ body[data-aos-duration='10000'] [data-aos],
     color: bisque;
 }
 
-
 .cross {
     align-items: center;
     justify-items: center;
@@ -526,7 +528,7 @@ body[data-aos-duration='10000'] [data-aos],
 }
 
 /* trying to make the page responsive */
-@media(max-width: 850px) {
+@media (max-width: 850px) {
     .timeline-items::before {
         left: 7px;
         justify-content: left;
