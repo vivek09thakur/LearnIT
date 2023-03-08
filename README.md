@@ -6,4 +6,4 @@
  <b><a href="#">HTML5, CSS3 and JavaScript.</a></b> 
 Since Site May Crashes Sometimes</p>
 
-<h3 align="right">Visit Site at ~ <a href="https://vivekthakurcse.github.io/LearnIT.github.io/">vivekthakurcse.github.io/LearnIT.github.io</a></h3>
+<h3>Visit Site at ~ <a href="https://vivekthakurcse.github.io/LearnIT.github.io/">vivekthakurcse.github.io/LearnIT.github.io</a></h3>
