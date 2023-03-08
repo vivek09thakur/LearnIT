@@ -2,6 +2,8 @@
 
 <p align="center"> A website to provide free books and syllabus of students who are doing there diploma in computer science and engineering</p>
 
-<p><b>⚠️ : </b> Its made in part time to practice HTML5, CSS3 and JavaScript . Since Errors can occured.
+<p align="center"> Its made in part time to practice
+ <b><a href="#>HTML5, CSS3 and JavaScript.</a></b> 
+Since Site May Crashes Sometimes</p>
 
 <h2>Visit Site at : <a href="https://vivekthakurcse.github.io/LearnIT.github.io/">vivekthakurcse.github.io/LearnIT.github.io</a></h3>
