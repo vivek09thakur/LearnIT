@@ -2,7 +2,7 @@
 
 <p align="center"> A website to provide free books and syllabus of students who are doing there diploma in computer science and engineering</p>
 
-<p align="center"> 
+<p> 
 > Its made in part time to practice
  <b><a href="#">HTML5, CSS3 and JavaScript.</a></b> 
 Since Site May Crashes Sometimes</p>
