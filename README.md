@@ -6,9 +6,10 @@
  <b><a href="#">HTML5, CSS3 and JavaScript.</a></b> 
 Since Site May Crashes Sometimes</p>
 
+<div>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-
+</div>
 
 <h3>Visit Site at ~ <a href="https://vivekthakurcse.github.io/LearnIT.github.io/">vivekthakurcse.github.io/LearnIT.github.io</a></h3>
