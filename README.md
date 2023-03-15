@@ -9,12 +9,3 @@ Since Site May Crashes Sometimes</p>
 
 
 <h3>Visit Site at ~ <a href="https://vivekthakurcse.github.io/LearnIT.github.io/">vivekthakurcse.github.io/LearnIT.github.io</a></h3>
-
-
-<h3>Contributors </h3>
-
-<a href="https://github.com/vivekthakurcse/LearnIT.github.io/graphs/contributors">
-<img 
-src="https://contrib.rocks/image?repo=vivekthakurcse/LearnIT.github.io" /> 
-</a> 
- 
