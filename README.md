@@ -12,8 +12,9 @@ Since Site May Crashes Sometimes</p>
 
 
 <h3>Contributors </h3>
- <p align="center"> 
- <a href="https://github.com/vivekthakurcse/LearnIT.github.io/graphs/contributors"> 
-<img src="https://contrib.rocks/image?repo=vivekthakurcse/LearnIT.github.io" /> 
+
+<a href="https://github.com/vivekthakurcse/LearnIT.github.io/graphs/contributors"> 
+<img 
+src="https://contrib.rocks/image?repo = vivekthakurcse/LearnIT.github.io" /> 
  </a> 
- </p> 
+ 
