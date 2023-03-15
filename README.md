@@ -15,6 +15,6 @@ Since Site May Crashes Sometimes</p>
 
 <a href="https://github.com/vivekthakurcse/LearnIT.github.io/graphs/contributors">
 <img 
-src="https://contrib.rocks/image?repo = vivekthakurcse/LearnIT.github.io" /> 
+src="https://contrib.rocks/image?repo=vivekthakurcse/LearnIT.github.io" /> 
 </a> 
  
