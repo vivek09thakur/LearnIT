@@ -6,4 +6,4 @@
 <sub><a href="#">Pay Attention : </a> Its made in part time to practice HTML5, CSS3 and JavaScript. Since Site May Crashes Sometimes </sub>
 
 
-<h3>Visit Site at ~ <a href="https://github.com/vivek09thakur/LearnIT.github.io">https://github.com/vivek09thakur/LearnIT.github.io</a></h3>
+<h3>Visit Site :<a href="https://github.com/vivek09thakur/LearnIT.github.io">https://github.com/vivek09thakur/LearnIT.github.io</a></h3>
