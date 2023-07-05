@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>web-bootcamp</title>
+
+  <!-- favicon link -->
+  <link rel="icon" href="images/favicon-16x16.png" />
+
+  <!-- bootstrap css link  -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous" />
+
+  <!-- google font link  -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Barlow:wght@700;800;900&family=Lato:wght@300;400&family=Mulish:wght@400;600;700&display=swap"
+    rel="stylesheet" />
+
+
+  <!-- css link -->
+  <link rel="stylesheet" href="../css/docs-others.css" />
+
+  <!-- Boxicons CSS -->
+  <link href="https://unpkg.com/boxicons@2.1.2/css/boxicons.min.css" rel="stylesheet" />
+  <script src="https://kit.fontawesome.com/e653c7cf97.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+  <!-- nav bar -->
+  <div>
+
+    <nav>
+      <div class="logo">
+        <i class="bx bx-menu menu-icon"></i>
+        <span class="logo-name">Back-End Development Guide</span>
+        <div class="head">
+          <h3 class="head-links"><a class="head-link" href="../index.html">Home</a></h3>
+          <h3 class="head-links"><a class="head-link" href="../lectures/lecture-home.html">Videos</a></h3>
+        </div>
+      </div>
+
+      <div class="sidebar">
+        <div class="logo">
+          <i class="bx bx-menu menu-icon"></i>
+          <span class="logo-name">All Docs</span>
+        </div>
+
+        <div class="sidebar-content">
+          <ul class="lists">
+
+            <li class="list">
+              <a href="../docs/docs-home.html" class="nav-link">
+                <i class='bx bx-code-block icon'></i>
+                <span class="link">How to begin</span>
+              </a>
+            </li>
+
+            <li class="list">
+              <a href="../docs/docs-frontend.html" class="nav-link">
+                <i class="bx bx-bar-chart-alt-2 icon"></i>
+                <span class="link">Frontend Guide</span>
+              </a>
+            </li>
+
+            <li class="list">
+              <a href="../docs/docs-backend.html" class="nav-link active-link">
+                <i class="fa-brands fa-square-js icon"></i>
+                <span class="link">Backend Guide</span>
+              </a>
+            </li>
+
+            <li class="list">
+              <a href="../docs/docs-mern.html" class="nav-link">
+                <i class="bx bx-message-rounded icon"></i>
+                <span class="link">Online Resources and Help</span>
+              </a>
+            </li>
+          </ul>
+
+          <div class="bottom-content">
+            <li class="list">
+              <a href="../index.html" class="nav-link ">
+                <i class="bx bx-home-alt icon"></i>
+                <span class="link sidebar-links">Home</span>
+              </a>
+            </li>
+
+            <li class="list">
+              <a href="../lectures/lecture-home.html" class="nav-link">
+                <img class="sidebar-images" src="../images/video.png" alt="Bootstrap">
+                <span class="link sidebar-links">Videos</span>
+              </a>
+            </li>
+          </div>
+
+        </div>
+      </div>
+  </div>
+  </nav>
+  </div>
+
+  <div class="main">
+
+    <div class="accordionWrapper">
+      <div class="accordionItem open">
+        <h2 class="accordionItemHeading">What is Node.js ?</h2>
+        <div class="accordionItemContent">
+          <img class="content-inside-images" src="../images/node.png" alt="HTML">
+          <div class="textWrapper">
+            Node.js is an open-source, cross-platform, back-end, JavaScript runtime environment that executes JavaScript
+            code outside a web browser. Node.js lets developers use JavaScript to write command line tools and for
+            server-side scripting—running scripts server-side to produce dynamic web page content before the page is
+            sent to the user's web browser. Consequently, Node.js represents a "JavaScript everywhere" paradigm,
+            unifying web-application development around a single programming language, rather than different languages
+            for server- and client-side scripts.
+          </div>
+        </div>
+      </div>
+
+      <div class="accordionItem close">
+        <h2 class="accordionItemHeading">Best Node.js Course for beginners (ACM Suggestion)</h2>
+        <div class="accordionItemContent">
+          <!-- <img class="content-inside-images" src="/images/MERN.png" alt="HTML"> -->
+          <div class="textWrapper">
+            <ul class="textWrapper-lists">
+              <li class="textWrapper-list"><a class="list-decoration"
+                  href="https://www.udemy.com/course/the-complete-nodejs-developer-course-2/">Node Udemy Course</a></li>
+              <li class="textWrapper-list"><a class="list-decoration"
+                  href="https://www.youtube.com/playlist?list=PL-Jc9J83PIiEnK1q9tuVrrORqKBexcE_J">Introduction to
+                  Backend</a></li>
+              <li class="textWrapper-list">It is highly recommended to follow the projects listed below after completing
+                the basics of Node.js</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <div class="accordionItem close">
+        <h2 class="accordionItemHeading">Best Mern Stack Projects</h2>
+        <div class="accordionItemContent">
+          <img class="content-inside-images" src="../images/MERN.png" alt="HTML">
+          <div class="textWrapper">
+            <ul class="textWrapper-lists">
+              <li class="textWrapper-list"><a class="list-decoration"
+                  href="https://www.udemy.com/course/mern-stack-front-to-back/">Social Media Website with MERN Stack</a>
+              </li>
+              <li class="textWrapper-list"><a class="list-decoration"
+                  href="https://www.udemy.com/course/mern-ecommerce/">E-Commerce Website with MERN Stack</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+
+    <section class="overlay"></section>
+
+    <script>
+      const navBar = document.querySelector("nav"),
+        menuBtns = document.querySelectorAll(".menu-icon"),
+        overlay = document.querySelector(".overlay");
+
+      menuBtns.forEach((menuBtn) => {
+        menuBtn.addEventListener("click", () => {
+          navBar.classList.toggle("open");
+        });
+      });
+
+      overlay.addEventListener("click", () => {
+        navBar.classList.remove("open");
+      });
+
+    </script>
+
+
+    <script src="../js/style.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"
+      integrity="sha384-oBqDVmMz9ATKxIep9tiCxS/Z9fNfEXiDAYTujMAeBAsjFuCZSmKbSSUnQlmh/jp3"
+      crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.min.js"
+      integrity="sha384-IDwe1+LCz02ROU9k972gdyvl+AESN10+x7tBKgc9I5HFtuNz0wWnPclzo6p9vxnk"
+      crossorigin="anonymous"></script>
+
+</body>
+
+</html>
