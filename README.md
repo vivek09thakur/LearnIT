@@ -4,8 +4,12 @@
 
 > [Pay Attention  : ](#) Its made in part time to practice HTML5, CSS3 and JavaScript. Since Site May Crashes Sometimes.</p>
 
-### Vist Site at :   [![Deployed to Vercel](https://vercel.com/button)](https://learn-itz.vercel.app/)
- 
+### Deployed on vercel 
+> click here to visit site
+
+[![Deployed to Vercel](https://vercel.com/button)](https://learn-itz.vercel.app/)
+
+
 ### Contributors
 
 |  <a href='https://github.com/vivek09thakur'>Vivek Thakur (me)</a> | <a href='https://github.com/Amit-Kumar-Pandey-05'> Amit kr Pandey </a> |
