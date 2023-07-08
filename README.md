@@ -6,3 +6,8 @@
 
 ### Vist Site at :   [![Deployed to Vercel](https://vercel.com/button)](https://learn-itz.vercel.app/)
  
+### Contributors
+
+|  <a href='https://github.com/vivek09thakur'>Vivek Thakur (me)</a> | Amit Kumar Pandey |
+|--------------------|-------------------|
+| <img width='70px' src='https://avatars.githubusercontent.com/u/114133520?v=4'/> | |
