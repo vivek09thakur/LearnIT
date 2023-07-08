@@ -8,6 +8,6 @@
  
 ### Contributors
 
-|  <a href='https://github.com/vivek09thakur'>Vivek Thakur (me)</a> | Amit Kumar Pandey |
+|  <a href='https://github.com/vivek09thakur'>Vivek Thakur (me)</a> | <a href='https://github.com/Amit-Kumar-Pandey-05'> Amit kr Pandey </a> |
 |--------------------|-------------------|
-| <img width='70px' src='https://avatars.githubusercontent.com/u/114133520?v=4'/> | |
+| <img width='70px' src='https://avatars.githubusercontent.com/u/114133520?v=4'/> | <img width='70px' src='https://avatars.githubusercontent.com/u/117479622?v=4'/>|
