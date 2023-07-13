@@ -7,7 +7,7 @@
 ### Deployed on vercel 
 > click here to visit site
 
-[![Deployed to Vercel](https://vercel.com/button)](https://learn-itz.vercel.app/)
+[![Deployed to Vercel](https://vercel.com/button)](https://learn-it-sigma.vercel.app/)
 
 
 ### Contributors
