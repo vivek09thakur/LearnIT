@@ -11,6 +11,9 @@ body {
   min-height: 100%;
   background: #f0fcfc;
 }
+.syllabus_list{
+  text-transform: capitalize;
+}
 nav {
     
   position: fixed;
