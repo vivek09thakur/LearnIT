@@ -6,7 +6,7 @@ An open-source book distribution website to provide free books and syllabus to s
 > [!WARNING]
 > Its made in part time to practice HTML5, CSS3 and JavaScript. Since Site May Crashes Sometimes.</p>
 
-## **Visit Site at : https://learnit-io.vercel.app**
+## **Visit Site at : https://learnit-io.vercel.app/**
 
 ### Contributors
 
