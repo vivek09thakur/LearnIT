@@ -8,7 +8,4 @@ An open-source book distribution website to provide free books and syllabus to s
 
 If you want to add new features, new resources, new book, updated syllabus and other learning stuffs then feel free to contribute. Just fork and create your own branch and leave a pull-request.
 
-![](https://contrib.rocks/image?repo=vivek09thakur/LearnIT)
-
-***Developed by***
-- [Vivek Kumar (CSE-20509)](20509.vivek@gpranchi.org)
+**Developed by - [Vivek Kumar (CSE-20509)](20509.vivek@gpranchi.org)**
