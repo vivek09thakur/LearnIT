@@ -1,4 +1,5 @@
-## **LearnIT 🔰 - First project on github 🚩**
+## **LearnIT 🔰**
+> **My very first github project 🚩**
 
 An open-source book distribution website to provide free books and syllabus to students pursuing their diplomas in Computer Science and Engineering. This site was made as a beginner project to practice HTML,CSS and Javascript. So It may crashes sometimes. If you encounter an error or anykind of problem **[just let me know](20509.vivek@gpranchi.org)**.
 
