@@ -1,8 +1,8 @@
 ## **LearnIT 🔰 - First project on github 🚩**
 
-An open-source book distribution website to provide free books and syllabus to students pursuing their diplomas in Computer Science and Engineering. This site was made as a beginner project to practice HTML,CSS and Javascript. So It may crashes sometimes. If you encounter an error or anykind of problem just let me know : **20509.vivek@gpranchi.org**.
+An open-source book distribution website to provide free books and syllabus to students pursuing their diplomas in Computer Science and Engineering. This site was made as a beginner project to practice HTML,CSS and Javascript. So It may crashes sometimes. If you encounter an error or anykind of problem **[just let me know](20509.vivek@gpranchi.org)**.
 
-**Live at : [learnit-io.vercel.app](https://learnit-io.vercel.app/)**
+**Visit live site at: [learnit-io.vercel.app](https://learnit-io.vercel.app/)**
 
 **Contributors**
 
