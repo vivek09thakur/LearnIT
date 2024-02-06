@@ -1,14 +1,14 @@
-## **LEARNIT 🔰**
-> **First Project on Github 🚩**
+## **LearnIT 🔰 - First Project on Github 🚩**
 
-An open-source book distribution website to provide free books and syllabus to students pursuing their diplomas in Computer Science and Engineering
+An open-source book distribution website to provide free books and syllabus to students pursuing their diplomas in Computer Science and Engineering. This site was made as a beginner project to practice HTML,CSS and Javascript. So It may crashes sometimes. If you encounter an error or anykind of problem just let me know : **20509.vivek@gpranchi.org**.
 
-> [!WARNING]
-> Its made in part time to practice HTML5, CSS3 and JavaScript. Since Site May Crashes Sometimes.</p>
+**Live at : [learnit-io.vercel.app](https://learnit-io.vercel.app/)**
 
-## **Visit Site at : https://learnit-io.vercel.app/**
+**Contributors**
 
-### Contributors
+If you want to add new features, new resources, new book, updated syllabus and other learning stuffs then feel free to contribute. Just fork and create your own branch and leave a pull-request.
 
 ![](https://contrib.rocks/image?repo=vivek09thakur/LearnIT)
 
+***Developed by***
+- [Vivek Kumar (CSE-20509)](20509.vivek@gpranchi.org)
