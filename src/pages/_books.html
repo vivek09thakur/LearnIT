@@ -8,7 +8,7 @@
   <title>LearnIT | Grab your book</title>
 
   <!-- favicon link -->
-  <link rel="icon" href="images/pic1.svg" />
+  <link rel="icon" href="./public/pic1.svg" />
 
   <!-- bootstrap css link  -->
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
@@ -37,7 +37,7 @@
       <span class="logo-name">Grab your book</span>
       <div class="head">
         <h3 class="head-links">
-          <a class="head-link" href="index.html">Home</a>
+          <a class="head-link" href="/index.html">Home</a>
         </h3>
       </div>
     </div>
@@ -58,21 +58,21 @@
           </li>
 
           <li class="list">
-            <a href="/pages/_syllabus.html" class="nav-link">
+            <a href="./_syllabus.html" class="nav-link">
               <i class="bx bx-bar-chart-alt-2 icon"></i>
               <span class="link">Syllabus</span>
             </a>
           </li>
 
           <li class="list">
-            <a href="/pages/_books.html" class="nav-link active-link">
+            <a href="./_books.html" class="nav-link active-link">
               <i class="bx bx-bar-chart-alt-2 icon"></i>
               <span class="link">Books and Notes</span>
             </a>
           </li>
 
           <li class="list">
-            <a href="/pages/_ques_page.html" class="nav-link">
+            <a href="./_ques_page.html" class="nav-link">
               <i class="bx bx-message-rounded icon"></i>
               <span class="link">Previous year questions</span>
             </a>
@@ -81,7 +81,7 @@
 
         <div class="bottom-content">
           <li class="list">
-            <a href="/index.html" class="nav-link">
+            <a href="index.html" class="nav-link">
               <i class="bx bx-home-alt icon"></i>
               <span class="link sidebar-links">Home</span>
             </a>
@@ -265,21 +265,7 @@
   </div>
   <section class="overlay"></section>
 
-  <script>
-    const navBar = document.querySelector("nav"),
-      menuBtns = document.querySelectorAll(".menu-icon"),
-      overlay = document.querySelector(".overlay");
-
-    menuBtns.forEach((menuBtn) => {
-      menuBtn.addEventListener("click", () => {
-        navBar.classList.toggle("open");
-      });
-    });
-
-    overlay.addEventListener("click", () => {
-      navBar.classList.remove("open");
-    });
-  </script>
+  <script src="../js/navbar.js"></script>
 
   <script src="../js/style.js"></script>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
