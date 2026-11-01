@@ -12,7 +12,7 @@ export function Accordion({ items, openIndex = 0 }) {
       "div",
       { class: "accordionItem" },
       headingEl,
-      el("div", { class: "accordionItemContent" }, el("div", { class: "textWrapper" }, content))
+      el("div", { class: "accordionItemContent" }, content)
     );
     setOpen(item, index === openIndex);
 

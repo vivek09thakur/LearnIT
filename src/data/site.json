@@ -1,6 +1,11 @@
 {
+  "name": "LearnIT",
   "contact": {
     "email": "20509.vivek@gpranchi.org"
+  },
+  "footer": {
+    "contactNote": "Found a broken link or want to contribute? Mail",
+    "author": { "name": "Vivek Kumar", "href": "https://vishme.vercel.app" }
   },
   "nav": {
     "sidebarTitle": "All Docs",

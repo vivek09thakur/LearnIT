@@ -1,0 +1,22 @@
+.site-footer {
+  margin-top: auto;
+  padding: 28px 30px;
+  background: var(--navy);
+  color: #fff;
+  text-align: center;
+  font-size: 0.95rem;
+}
+
+.site-footer p + p {
+  margin-top: 8px;
+}
+
+.site-footer a {
+  color: var(--yellow);
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.site-footer a:hover {
+  text-decoration: underline;
+}

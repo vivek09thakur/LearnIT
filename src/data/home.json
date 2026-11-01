@@ -1,11 +1,36 @@
 {
   "navTitle": "All Study Materials",
-  "headline": "Learn-IT an Open-Source Book provider",
-  "images": [
-    "src/images/pic1.svg",
-    "src/images/pic2.png",
-    "src/images/pic2.svg"
-  ],
-  "subheadline": "Wishing you all the best for your journey of learning",
-  "contactNote": "If anything goes wrong in the site, just leave a mail on"
+  "hero": {
+    "eyebrow": "Free & open-source",
+    "headline": "Learn-IT, an open-source book provider",
+    "tagline": "Books, notes, syllabus and previous year question papers for Diploma in Computer Science & Engineering, all in one place.",
+    "image": "src/images/pic1.svg",
+    "actions": [
+      { "label": "Browse books", "icon": "bx bx-book", "href": "src/pages/_books.html", "primary": true },
+      { "label": "View syllabus", "icon": "bx bx-book-open", "href": "src/pages/_syllabus.html" }
+    ]
+  },
+  "features": {
+    "heading": "What you will find here",
+    "items": [
+      {
+        "label": "Syllabus",
+        "icon": "bx bx-book-open",
+        "description": "Semester-wise syllabus for all six semesters.",
+        "href": "src/pages/_syllabus.html"
+      },
+      {
+        "label": "Books & Notes",
+        "icon": "bx bx-book",
+        "description": "Subject-wise books and notes, organised by semester.",
+        "href": "src/pages/_books.html"
+      },
+      {
+        "label": "Previous year questions",
+        "icon": "bx bx-help-circle",
+        "description": "Question papers from past exams to practise with.",
+        "href": "src/pages/_ques_page.html"
+      }
+    ]
+  }
 }

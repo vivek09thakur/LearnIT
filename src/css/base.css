@@ -1,16 +1,50 @@
+:root {
+  --navy: #272343;
+  --yellow: #ffd166;
+  --teal: #f0fcfc;
+  --text: #2d334a;
+  --muted: #5f6577;
+  --max-width: 1100px;
+}
+
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: "Poppins", sans-serif;
 }
 
 body {
   min-height: 100%;
+  font-family: "Poppins", sans-serif;
+  font-size: 1rem;
+  line-height: 1.5;
+  color: var(--text);
+  background: #fff;
 }
 
 body[data-layout="resources"] {
-  background: #f0fcfc;
+  background: var(--teal);
+}
+
+h1,
+h2,
+h3 {
+  line-height: 1.2;
+  font-weight: 600;
+}
+
+img {
+  max-width: 100%;
+}
+
+a {
+  color: inherit;
+}
+
+#app {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
 }
 
 .load-error {

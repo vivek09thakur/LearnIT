@@ -2,18 +2,33 @@ import { loadJson } from "./utils/data.js";
 import { el } from "./utils/dom.js";
 import { Navbar } from "./components/Navbar.js";
 import { Accordion } from "./components/Accordion.js";
-import { LinkList } from "./components/LinkList.js";
-import { HomeContent } from "./components/HomeContent.js";
+import { TileGrid } from "./components/TileGrid.js";
+import { Hero } from "./components/Hero.js";
+import { Footer } from "./components/Footer.js";
 
 const layouts = {
-  home: (page, site) => HomeContent({ ...page, email: site.contact.email }),
+  home: (page) =>
+    el(
+      "main",
+      { class: "landing" },
+      Hero(page.hero),
+      el(
+        "section",
+        { class: "features" },
+        el("h2", { class: "section-title" }, page.features.heading),
+        TileGrid({ items: page.features.items, variant: "feature" })
+      )
+    ),
 
   resources: (page) =>
     el(
-      "div",
+      "main",
       { class: "main" },
       Accordion({
-        items: page.sections.map(({ heading, links }) => ({ heading, content: LinkList({ links }) })),
+        items: page.sections.map(({ heading, links }) => ({
+          heading,
+          content: TileGrid({ items: links.map((link) => ({ icon: "bx bxs-folder", ...link })) }),
+        })),
       })
     ),
 };
@@ -29,7 +44,8 @@ async function main() {
 
   root.replaceChildren(
     Navbar({ title: page.navTitle, ...site.nav, activeId: pageId }),
-    renderLayout(page, site)
+    renderLayout(page, site),
+    Footer({ siteName: site.name, email: site.contact.email, ...site.footer })
   );
 }
 
