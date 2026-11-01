@@ -1,0 +1,36 @@
+.page-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 24px;
+  margin-bottom: 28px;
+}
+
+.page-header-title {
+  font-size: clamp(1.7rem, 1.2rem + 1.6vw, 2.4rem);
+  color: var(--navy);
+}
+
+.page-header-description {
+  max-width: 48ch;
+  margin-top: 10px;
+  color: var(--muted);
+}
+
+.page-header-image {
+  flex-shrink: 0;
+  width: 320px;
+  height: auto;
+}
+
+@media (max-width: 720px) {
+  .page-header {
+    flex-direction: column-reverse;
+    align-items: flex-start;
+  }
+
+  .page-header-image {
+    width: 240px;
+    align-self: center;
+  }
+}

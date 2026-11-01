@@ -1,5 +1,10 @@
 {
   "navTitle": "prev year questions",
+  "header": {
+    "title": "Previous year questions",
+    "description": "Question papers from past exams, grouped by semester, to practise before your own.",
+    "image": "src/images/pic1.svg"
+  },
   "sections": [
     {
       "heading": "Previous year questions for practice",

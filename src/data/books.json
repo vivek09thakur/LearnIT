@@ -1,5 +1,10 @@
 {
   "navTitle": "Grab your book",
+  "header": {
+    "title": "Books and Notes",
+    "description": "Subject-wise books and notes for every semester. Open a semester and pick a subject to browse its folder.",
+    "image": "src/images/pic2.svg"
+  },
   "sections": [
     {
       "heading": "SEM I",

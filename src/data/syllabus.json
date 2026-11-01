@@ -1,5 +1,10 @@
 {
   "navTitle": "Get the syllabus",
+  "header": {
+    "title": "Syllabus",
+    "description": "The official semester-wise syllabus, so you always know what to study next.",
+    "image": "src/images/pic2.png"
+  },
   "sections": [
     {
       "heading": "Syllabus",

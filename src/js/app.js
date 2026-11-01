@@ -4,6 +4,7 @@ import { Navbar } from "./components/Navbar.js";
 import { Accordion } from "./components/Accordion.js";
 import { TileGrid } from "./components/TileGrid.js";
 import { Hero } from "./components/Hero.js";
+import { PageHeader } from "./components/PageHeader.js";
 import { Footer } from "./components/Footer.js";
 
 const layouts = {
@@ -24,6 +25,7 @@ const layouts = {
     el(
       "main",
       { class: "main" },
+      page.header && PageHeader(page.header),
       Accordion({
         items: page.sections.map(({ heading, links }) => ({
           heading,
