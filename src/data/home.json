@@ -1,0 +1,11 @@
+{
+  "navTitle": "All Study Materials",
+  "headline": "Learn-IT an Open-Source Book provider",
+  "images": [
+    "src/images/pic1.svg",
+    "src/images/pic2.png",
+    "src/images/pic2.svg"
+  ],
+  "subheadline": "Wishing you all the best for your journey of learning",
+  "contactNote": "If anything goes wrong in the site, just leave a mail on"
+}

@@ -1,0 +1,16 @@
+{
+  "navTitle": "prev year questions",
+  "sections": [
+    {
+      "heading": "Previous year questions for practice",
+      "links": [
+        { "label": "SEM I", "href": "https://drive.google.com/drive/folders/1OL4W8elqLyRFWqyvTqws_RWx_kGdc0sz" },
+        { "label": "SEM II", "href": "https://drive.google.com/drive/folders/1-hr6MNNyBFi4XLAMoZ8UvEJFXcorxqP-" },
+        { "label": "SEM III", "href": "https://drive.google.com/drive/folders/1-8jqqo3fknf0Y3HlPId_Ob9NKeA9CQ4A" },
+        { "label": "SEM IV", "href": "https://drive.google.com/drive/folders/1SdHo8vtaYoda2TXPEJZiBZ_w9Ly0rThf" },
+        { "label": "SEM V", "href": "https://drive.google.com/drive/folders/1RyL4SjOZv7U5auoNUlK2k_OF2z65fQQ8" },
+        { "label": "SEM VI", "href": "https://drive.google.com/drive/folders/1S4lGwi-yyCI0bbhKhPIE9zIpZAnEFc1A" }
+      ]
+    }
+  ]
+}

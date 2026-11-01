@@ -1,0 +1,29 @@
+.content {
+  text-align: center;
+  width: 75%;
+  margin: auto;
+  font-size: 1.2rem;
+}
+
+.content-heading-1 {
+  margin-top: 6rem;
+  text-align: center;
+}
+
+.content-heading-2 {
+  margin-top: 3rem;
+}
+
+.content-inside-images {
+  height: 22%;
+  width: 22%;
+  margin: 0.8%;
+}
+
+.content-inside-2 {
+  margin-top: 2rem;
+}
+
+.content-link {
+  text-decoration: none;
+}

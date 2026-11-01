@@ -1,0 +1,68 @@
+{
+  "navTitle": "Grab your book",
+  "sections": [
+    {
+      "heading": "SEM I",
+      "links": [
+        { "label": "engineering mathematics - I", "href": "https://drive.google.com/drive/folders/1MllhhE3QVmwbfpkUMDQl2N-0MCZRT3dH" },
+        { "label": "engineering physics - I", "href": "https://drive.google.com/drive/folders/1OAwBaJcPk8dyjjZg09xhOU44iuDmMrby" },
+        { "label": "engineering chemistry - I", "href": "https://drive.google.com/drive/folders/1OBsZR7s5TedQqM6W4TKEgOWGI_zIF88Y" },
+        { "label": "engineering drawings", "href": "https://drive.google.com/drive/folders/1OCpL6sLyzAmlRzHlNbXV9kmKH58rWY3a" },
+        { "label": "communications skills", "href": "https://drive.google.com/drive/folders/1OEBb7h08QInbp8NCdfIid19zdqrlGjjP" },
+        { "label": "fundamental of computers", "href": "https://drive.google.com/drive/folders/1O9wXywpG07Crc9uMNGHXafVvidY5Ns64" }
+      ]
+    },
+    {
+      "heading": "SEM II",
+      "links": [
+        { "label": "engineering mathematics - II", "href": "https://drive.google.com/drive/folders/1-5-ytAMPsZ9soFlQ3COBkR2ORiBk1dBN" },
+        { "label": "engineering physics - II", "href": "https://drive.google.com/drive/folders/1-74puWFA6o65RFDclT9uSbOJtm7LgX7a" },
+        { "label": "engineering chemistry - II", "href": "https://drive.google.com/drive/folders/1-AdumUnbzJ0TANCYNbrrrLDlosYJHPAH" },
+        { "label": "programming with C", "href": "https://drive.google.com/drive/folders/1ZPhQwyPjYRnD7ufXc4mCRONOMbOUAhgS" },
+        { "label": "communications skills", "href": "https://drive.google.com/drive/folders/1-5Kj_5qC9iEac7c-cTZoY_tqIltAW3mf" }
+      ]
+    },
+    {
+      "heading": "SEM III",
+      "links": [
+        { "label": "electrical technology", "href": "https://drive.google.com/drive/folders/1-naPEBXQY50K1-0L3nicnzt2U3EaZey4" },
+        { "label": "electronic devices and circuits", "href": "https://drive.google.com/drive/folders/1-hMC4CCetXQu25em_H6h47hNSLnSi_a8" },
+        { "label": "engg mathematics - III", "href": "https://drive.google.com/drive/folders/1-d3SpHA0qNcVBg0CcZsKumhjj5JKkcni" },
+        { "label": "Object Oriented programming", "href": "https://drive.google.com/drive/folders/1-OzQUx23QHOYVck81Uzn5sd6Kkc2NJzo" },
+        { "label": "web technology", "href": "https://drive.google.com/drive/folders/1-OYIxMSaOwmX0SVLo9IF5cos9g9RODCN" }
+      ]
+    },
+    {
+      "heading": "SEM IV",
+      "links": [
+        { "label": "database management system", "href": "https://drive.google.com/drive/folders/1SYLyXGSeej-BqSqr37hxNpc2p0hkB8St" },
+        { "label": "data structure and algorithms", "href": "https://drive.google.com/drive/folders/1SD6oAJCEYXZDi1rNrko8u5dIeN0In8vw" },
+        { "label": "data communications and computer networking", "href": "https://drive.google.com/drive/folders/1SWyYryKvz7N-osb4ZD8T2RDfu1UkuQ8X" },
+        { "label": "computer hardwares and peripheral", "href": "https://drive.google.com/drive/folders/1SOJShjEGA3_TXD5DwlTfjPoXGocp9uRM" },
+        { "label": "operating system", "href": "https://drive.google.com/drive/folders/1SVXec7ig70J0lBh6k6JkLwka4Feu9D0v" }
+      ]
+    },
+    {
+      "heading": "SEM V",
+      "links": [
+        { "label": "Java programming", "href": "https://drive.google.com/drive/folders/1RS7rTYzT2Glv-HemmQAW3mx5pt3t96yi" },
+        { "label": "computer graphics", "href": "https://drive.google.com/drive/folders/1RdHmlfYYMwzaImBIrMUGn75ZX5GiV6Zu" },
+        { "label": "Artificial Intelligence", "href": "https://drive.google.com/drive/folders/1RkvlwZCRofrggP3iB07mh50koODA179_" },
+        { "label": "micro-processor and micro-controller", "href": "https://drive.google.com/drive/folders/1RPfJaTcmHXUFc7EUOHnbFPP-nZjfog-0" },
+        { "label": "mobile computing", "href": "https://drive.google.com/drive/folders/1RemqG7MX52sy43pnLl4JmcXe9wHHaByf" },
+        { "label": "advance web tech", "href": "https://drive.google.com/drive/folders/1RrV1MGPpzZsL8jx80-ujuTWLR_xXb_XO" },
+        { "label": "E-commerce", "href": "https://drive.google.com/drive/folders/1RpbzLQMS4078OkcIfTbI2WlTPveQII1T" }
+      ]
+    },
+    {
+      "heading": "SEM VI",
+      "links": [
+        { "label": "Internet of things", "href": "https://drive.google.com/drive/folders/1RPGX7dLQu7JpsBO5352MZwGcMVD1vzxu" },
+        { "label": "network security", "href": "https://drive.google.com/drive/folders/1RCnd639wzppLa-kKOG7o0aJIP84BTJ-7" },
+        { "label": "software engineering", "href": "https://drive.google.com/drive/folders/1RBCt94FwRmxjkVfx3AL0gnGuETcUbhAI" },
+        { "label": "cloud computing", "href": "https://drive.google.com/drive/folders/1RGMdH-hhqDSnl7sW_KsGl81aD_syVfnX" },
+        { "label": "industrial management", "href": "https://drive.google.com/drive/folders/1smJ1Kbn7sPu1T86ZhBhrrm-e9os72PU6" }
+      ]
+    }
+  ]
+}

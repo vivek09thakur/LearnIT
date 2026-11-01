@@ -1,0 +1,16 @@
+{
+  "navTitle": "Get the syllabus",
+  "sections": [
+    {
+      "heading": "Syllabus",
+      "links": [
+        { "label": "SEM I", "href": "https://drive.google.com/drive/folders/1OJCNosAy443Sz9FOUBmyaiqZdePcDvH0" },
+        { "label": "SEM II", "href": "https://drive.google.com/drive/folders/119iJYx47eFKk6F7eA27MEq9vSD44Yf6k" },
+        { "label": "SEM III", "href": "https://drive.google.com/drive/folders/1-2Wa47G9AHxfBcTIb8XGI0Y2-ZXzYtBS" },
+        { "label": "SEM IV", "href": "https://drive.google.com/drive/folders/1ScCDaxS0o-wJthCruX8fE2GXO0FcfOHi" },
+        { "label": "SEM V", "href": "https://drive.google.com/drive/folders/1RxSfvDEaQkB2Ptdr6q8_87zYwS3HWu76" },
+        { "label": "SEM VI", "href": "https://drive.google.com/drive/folders/1S2kwJijcxaBmVmHrNrs6ZoasNCaj-Y3b" }
+      ]
+    }
+  ]
+}

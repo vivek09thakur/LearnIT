@@ -1,0 +1,15 @@
+{
+  "contact": {
+    "email": "20509.vivek@gpranchi.org"
+  },
+  "nav": {
+    "sidebarTitle": "All Docs",
+    "home": { "label": "Home", "icon": "bx bx-home-alt", "href": "index.html" },
+    "links": [
+      { "id": "home", "label": "Home", "icon": "bx bx-home-alt", "href": "index.html" },
+      { "id": "syllabus", "label": "Syllabus", "icon": "bx bx-book-open", "href": "src/pages/_syllabus.html" },
+      { "id": "books", "label": "Books and Notes", "icon": "bx bx-book", "href": "src/pages/_books.html" },
+      { "id": "questions", "label": "Previous year questions", "icon": "bx bx-help-circle", "href": "src/pages/_ques_page.html" }
+    ]
+  }
+}
